@@ -5,6 +5,6 @@ I specialize in Spatial Data Science and GeoAI. My background in Mathematics and
 
 If there's a complex spatial problem, I’ll build an AI model to solve it and a full-stack application to visualize the results.
 
-My main tech stack includes Python (AI, GeoPandas, TensorFlow), Java (Spring Boot), and SQL (PostGIS). I’m passionate about turning raw coordinates into actionable insights.
+My main tech stack includes Python (AI, GeoPandas, Django), Java (Spring Boot,JEE,JSP & Servlet, JPA, Swing) and SQL (PostGIS,SQLServer,MySql). I’m passionate about turning raw coordinates into actionable insights.
 
 Currently, I'm deep-diving into Remote Sensing and Advanced Spatial Analysis as part of my first year in Engineering school.
